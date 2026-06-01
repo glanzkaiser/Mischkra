@@ -1,5 +1,5 @@
 # Mischkra
-A Book and C++ Library for Biology and Medicine Learning, Computation and Simulation
+A book and C++ Library for Biology and Medicine Learning, Computation and Simulation
 
 #### Created on Blue Moon May 31st, 2026
 The peak of the full moon phase occurs at 3:45 PM WIB, 4:45 PM WITA, and 5:45 PM WIT. However, the full moon can still be enjoyed throughout the night as long as the sky is clear.
